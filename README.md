@@ -27,6 +27,7 @@ pip install -r requirements.txt
 # Usage
 Run the chatbot with:
 
-bash
+```bash
 
 python main.py "prompt" #example python main.py
+```
