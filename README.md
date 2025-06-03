@@ -8,8 +8,8 @@ It was frustrating for user when coming from js environment
 1. Clone the repo:
 
 ```bash
-   git clone https://github.com/divu777/cli-chatbot
-   cd cli-chatbot
+git clone https://github.com/divu777/cli-chatbot
+cd cli-chatbot
 ```
 
 # Create and activate virtual environment:
@@ -29,5 +29,6 @@ Run the chatbot with:
 
 ```bash
 
-python main.py "prompt" #example python main.py
+python main.py "prompt" #example python main.py "what is the capital of india"
+
 ```
